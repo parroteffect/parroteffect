@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @parroteffect
-- 👀 I’m interested in [intelligence representation, NLP]
 
 - 📫 How to reach me : parroteffect@gmail.com
 
