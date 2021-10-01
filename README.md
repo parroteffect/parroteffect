@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parroteffect
+- 👋 Hi, I’m parroteffect
 
 - 📫 How to reach me : parroteffect@gmail.com
 
