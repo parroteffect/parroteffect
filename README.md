@@ -1,4 +1,4 @@
-- 👋 Hi, I’m parroteffect
+- 👋 Hi, I’m Dongkuk Si
 
 - 📫 How to reach me : parroteffect@gmail.com
 
