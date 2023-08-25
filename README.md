@@ -6,4 +6,3 @@
 ### 🤔 You can find me at...
 - Email : parroteffect@gmail.com
 - Website : [parroteffect.github.io](parroteffect.github.io)
-- Google Scholar : [Dongkuk Si](https://scholar.google.com/citations?user=xNPdiRsAAAAJ)
