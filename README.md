@@ -6,5 +6,5 @@
 
 ### 🤔 You can find me at...
 - Email : parroteffect@gmail.com
-- Website : [parroteffect.github.io](parroteffect.github.io)
+- Website : [parroteffect.github.io](https://parroteffect.github.io)
 - Feel free to contact me!
