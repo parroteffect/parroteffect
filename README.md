@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dongkuk Si 
 
-- Deep Learning Research Engineer @ Mobilint, Inc
+- Deep Learning Research Engineer @ Mobilint, Inc.
 - Interested in efficient deep learning
 - Interested in deep learning theory
 
